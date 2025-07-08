@@ -1,4 +1,4 @@
-> *Aura sidus mare adjuvant me*
+<h2 align="center"><strong><em>Aura sidus mare adjuvant me</em></strong></h2>
 
 # Hi, I'm Antoine 👋
 
