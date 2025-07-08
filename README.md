@@ -31,8 +31,8 @@ I'm a proud member of the **ICP DevRel Syndicate** and sit on the **Funding Comm
 
 ## 📈 GitHub Stats
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=espieux&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espieux&layout=compact&theme=tokyonight)
 
 ---
 
